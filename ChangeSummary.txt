@@ -1,0 +1,18 @@
+I find HTML to be really useful in dividing information up and making it easy to read. 
+Its structure provides clear organization, which enhances the overall user experience. 
+I have taken a couple HTML classes in the past and a lot of the basics we learned in class I have learned a couple times already, so these topics aren't that new to me. 
+However, it is always good to revisit concepts, as it reinforces the fundamentals and allows for new perspectives on how to apply them. 
+For this formatting project, I focused on the hierarchy of information in my essay and properly assigned headings to those individual sections. 
+This step is crucial in making content more accessible and organized for readers. 
+I did this by adding <h#> tags to the different headings to help separate those sections. 
+This is especially important because it helps define the hierarchy of information throughout the site and makes it easier to read through. 
+Clear headings guide the reader and allow them to navigate content more effectively.
+
+In addition to the headings, I also added some bold and italics on the important parts of my text to emphasize them. 
+Emphasizing key points is essential in guiding the reader’s attention to important information. 
+I did this by using the <i>, <em>, and <b> to change the text decoration of these sentences. 
+I know that <em> and <i> do essentially the same thing, but I wanted to use them both to prove I know their uses and to show the different contexts in which they are applied. 
+In some cases, <em> may be used for emphasis, while <i> is often for styling or introducing foreign words. 
+I also incorporated a couple of unordered lists in my site. Since the items in the list aren't step-by-step instructions or something similar, I opted to use unordered lists. 
+Lists can break up content and make it more digestible, providing a clear visual structure to support readers as they scan through the text. 
+These formatting strategies ensure that the content is not only visually appealing but also functional for the reader.
